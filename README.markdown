@@ -1,2 +1,1 @@
-#This Github is for my resume (so far)
-Joonha Shin
+#Joonha Shin's Resume
