@@ -8,7 +8,7 @@ ol.heavy li {
 /* Tweak navbar brand link
 -------------------------------------------------- */
 
-body > .navbar .brand {
+body > .navbar .brand, a {
   -webkit-transition: all .2s linear;
      -moz-transition: all .2s linear;
           transition: all .2s linear;
