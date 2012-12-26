@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Career update #1
+title: Career update 1
 ---
 ##{{ page.title }}
-It's boxing day and I don't care much for shopping so I've been staying
+It's Boxing Day and I don't care much for shopping so I've been staying
 home pretty much all day.
 
-I just came back from walking over to Tim Horton's for coffee; it is
-really cold today. I guess winter is finally coming, sure took long
-enough, it's almost New Years already. I feel a little weird now that
+I just came back from walking over to Tim Horton's for a coffee. It is
+really cold today, I guess winter is finally coming; sure took long
+enough. It's almost New Years already. I feel a little weird now that
 this year is ending and all. I feel that I can clearly remember what my
 life was like around this time last year. I was working in Toronto and
 living there as well; I got to enjoy the best New Years Party of my life
@@ -17,10 +17,10 @@ towards the end of the night, I would say it would have been the
 perfect night. Now, I'm not so sure if I would be able to have something
 like that again. Part of the reason I was able to do what I did last
 year was because I was still involved with a volunteer organization. All
-of my close friends seems to spend time with their family on New Years,
-so I didn't have anyone else to hang out with then, and I really don't
-have those kind of people in my life now. I don't want to admit it, but
-I'm kind of scared of having a boring New Years Eve. Memories of
+of my close friends seem to spend time with their family on New Years,
+so I didn't have anyone else to hang out with then. Now I *really* don't
+have many people to hang out with on New Years. I don't want to admit it, but
+I'm really dreading of having a boring New Years Eve. Memories of
 spending it with my parents while watching TV and waiting for the
 countdown, only to see my parents falling asleep around 11:30 PM still
 sticks to my memory quite clearly to this day (and I believe that was
@@ -39,7 +39,7 @@ potential Apple job offer as well.
 
 I have admit though, working as a Specialist at Apple retail isn't what
 I should be doing right now. I know what I want, I want to be on my way
-to becoming a Project Manager. I've given it quite a thought into this,
+to becoming a Project Manager. I've given it quite a bit of thought into this,
 and this is the career that meets a lot of my needs. There is a demand
 for this position, and it allows me to make the best uses of my natural
 talents while fitting well into my personality. It requires juggling
@@ -52,9 +52,9 @@ picture, rather than focusing intensely on one part of the project.
 So, now I'm trying to figure out how I'm going to get what I want. I'm
 coming up with a job search plan and working out a system that will help
 discipline myself to follow through on those plans. Building and
-maintain my personal website will be part of that plan. I will write
+maintaining my personal website will be part of that plan. I will write
 blog entries related to my job search and this will not only help me
 keep track of things, but also improve my front-end web development
-skills; something I'm very much interested in doing as a *serious* hobby.
+skills; something I'm very much interested in doing as a serious hobby.
 
 That's all for now.
