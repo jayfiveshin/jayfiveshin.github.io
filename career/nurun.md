@@ -59,6 +59,13 @@ acquiantances that I've met all throughout my life. My top five skills
 are talking, meeting people easily, manual dexterity, learning new skills,
 and adapting to changing situations.
 
+<!-- Availibility and best time to contact me-->
+I am available any time of the day starting in January of 2013. Please
+feel free to call me at 647-889-1882. Unfortunately, I do not have
+caller ID so I will not be able to call you back in case I miss your
+call. You can also send me a text message or email me at
+shin.joonha@gmail.com. 
+
 <!-- Closing statements-->
 I wish to hear back from you and look forward to the possibility of
 working with you in the near future.
