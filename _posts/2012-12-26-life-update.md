@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career update 1
+title: Life update 1
 ---
 ##{{ page.title }}
 It's Boxing Day and I don't care much for shopping so I've been staying
