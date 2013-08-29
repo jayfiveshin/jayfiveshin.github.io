@@ -4,9 +4,8 @@ title: Self-Expression
 ---
 #{{ page.title }}
 
-*You are young and life is long, and there is time to kill today. And then one
-day you find, ten years have got behind you. No one told you when to
-run, you missed the starting gun."*
+*Just when you think that you have your entire life figured out, it has
+a way of throwing a curve ball.*
 
 I had a bit of a crisis today. I questioned my life choices. I asked
 questions like, "Who was I in the last few weeks?" Am I really being
