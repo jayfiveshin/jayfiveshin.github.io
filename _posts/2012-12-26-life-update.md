@@ -3,6 +3,8 @@ layout: post
 title: Life update 1
 ---
 ##{{ page.title }}
+**{{ page.date | date: "%B, %d %Y" }}**
+
 It's Boxing Day and I don't care much for shopping so I've been staying
 home pretty much all day.
 

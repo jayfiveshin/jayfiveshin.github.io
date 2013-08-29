@@ -2,7 +2,7 @@
 layout: post
 title: Self-Expression
 ---
-#{{ page.title }}
+##{{ page.title }}
 **{{ page.date | date: "%B, %d %Y" }}**
 
 *Just when you think that you have your entire life figured out, it has

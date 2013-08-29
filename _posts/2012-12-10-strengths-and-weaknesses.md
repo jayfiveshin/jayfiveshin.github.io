@@ -3,6 +3,8 @@ layout: post
 title: My strengths and weaknesses
 ---
 ##{{ page.title }}
+**{{ page.date | date: "%B, %d %Y" }}**
+
 I got the following bullet points from the book ["Do What You Are"](http://www.amazon.ca/Do-What-You-Are-Personality/dp/0316167266).
 
 It comes from the ESFP personality section, which is appropriate for me, since my personality is ESFP, also known as "The Performer".
