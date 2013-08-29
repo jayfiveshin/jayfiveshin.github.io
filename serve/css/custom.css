@@ -1,0 +1,16 @@
+ol.heavy li {
+  font-weight: bold;
+}
+
+/* Tweak navbar brand link
+-------------------------------------------------- */
+
+body > .navbar .brand, a {
+  -webkit-transition: all .2s linear;
+     -moz-transition: all .2s linear;
+          transition: all .2s linear;
+}
+
+.navbar .btn-navbar-inverse .icon-bar {
+  background-color: #999;
+}
