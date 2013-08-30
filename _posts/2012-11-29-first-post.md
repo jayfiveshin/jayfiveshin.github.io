@@ -3,7 +3,7 @@ layout: post
 title: First post
 ---
 #{{ page.title }}
-**{{ page.date | date: "%B, %d %Y" }}**
+**{{ page.date | date: "%A, %B, %d %Y" }}**
 
 This is my first post using jekyll. I was using blogger in the past, but
 I wanted something that I found a bit more customizable. I still have

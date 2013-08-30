@@ -3,7 +3,7 @@ layout: post
 title: My strengths and weaknesses
 ---
 ##{{ page.title }}
-**{{ page.date | date: "%B, %d %Y" }}**
+**{{ page.date | date: "%A, %B, %d %Y" }}**
 
 I got the following bullet points from the book ["Do What You Are"](http://www.amazon.ca/Do-What-You-Are-Personality/dp/0316167266).
 
