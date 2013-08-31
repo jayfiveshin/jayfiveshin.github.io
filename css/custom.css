@@ -14,3 +14,7 @@ body > .navbar .brand, a {
 .navbar .btn-navbar-inverse .icon-bar {
   background-color: #999;
 }
+
+#post {
+  max-width: 700px;
+}
