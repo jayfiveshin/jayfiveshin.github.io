@@ -5,65 +5,123 @@ title: Self-Expression
 ##{{ page.title }}
 **{{ page.date | date: "%A, %B, %d %Y" }}**
 
-I met up with a friend that I met in beginner's acting class more than a year
-ago. Since we last met, she decided to pursue acting further and I didn't.
-She's been doing this for just over a year, and she told me how difficult it
-has been since. As she told me of her experiences, I felt both fear and
+*"Expression."*
+
+That is the word that she used to describe her reason; the
+justification for why she was doing what she was doing. And perhaps it was
+due to my realization that I was lacking such a thing in my life that suddenly
+brought a sharp, twisting pain in my chest.
+
+From time to time, I used to I wonder about the point of our existence.
+In a way, it matters very little. We are one of many life forms
+on this planet, and if all of humanity were to be wiped out, this planet
+will still move on without us. Most likely,
+all other forms of life on earth would thrive, and with time,
+things will be as if we never existed.
+
+Regardless, we are here; I don't know how or why, but we exist. And thus the grim, yet somehow beautiful, reality
+is that we are responsible for creating our own reasons for
+living and those reasons will be, and should be, different for every individual.
+The grimness comes from the fact that those who fail to find their own reason to live 
+for a prolonged period of time often comtemplate suicide, and sometimes
+succeed.
+
+To be "happy" can be one's goal in life and for many people, their reason for living is to
+achieve this goal. Even so, what makes an individual happy will
+vary. Mine is when I'm able to express myself to others; without the
+ability to express my thoughts and my feelings, I would have been dead long ago.
+
+But sometimes we get caught up with what *seems* to makes other people happy
+and fall into the trap of beliving that we must also do what they do in
+order to be happy.
+
+'Have a I fallen into this trap as well?' I thought to myself as we
+walked back from the play. There was a small moment of silence,
+but not for long. She wasn't the type to let a situation go too long
+without any words being said.
+
+---
+
+We first met in beginner's acting class more than a year
+ago. Since that time, she decided to pursue acting further and I didn't.
+She's been doing this for just over a year, and explained to me how difficult it
+has been since. As she told stories of her experiences, I felt both fear and
 excitement from her voice. She knew she wasn't sure of what she was doing and
 the uncertainty of whether or not she'll "make it" was taking its toll.
-But I found beauty in her for pursuing something she was fearful of.
-I saw something in her that I wanted for myself: the courage to step forward.
+As she spoke, I couldn't help but find her irresistibly charming.
+It could have been her long curly hair, her luscious full lips, or her
+body that would make any straight men turn heads. But on top of all
+that, I was captivated by the fact that despite fear, she was pursuing something she
+loved doing. Right at that moment, I saw something in her that I wanted
+for myself: the courage to step forward.
 
-After talking for an hour, we went to go see a play together.
+After talking for an hour, it was time for us to go see a play together.
+We were running late, and because it was just pouring minutes ago, all taxis
+seemed too busy to respond our SOS. In an act of desperation, we rushed to grab our 
+things, then stormed out of her
+apartment and marched towards the nearest subway station.
+The ride was quick, yet we still had to walk quite a bit when we got off our stop.
+It had just stopped raining, but it was still humid; almost as if we
+were in a rainforest. "Can you run?" I asked impolitely.
+Before saying a word, we both looked at her shoes.
+We started walking slightly faster.
+
+With no more than a minute to spare, we made it inside the building,
+only to find out that the play has been delayed for thirty minutes to
+accommodate for the people running late.
+Regardless, we smiled it off and brushed the sweat off our foreheads.
+I waited in anticipation of what was to come, and occasionally made
+small talks with other guests, who were also waiting patiently for the
+act to start.
+
+They rounded us up and led us up the stairs. When we finally arrived in
+the room where the act would take place, I saw a man who seemed to be in
+his mid-twenties, lying down awkwardly on a one-seater couch with his
+eyes closed. The
+background music was loud enough to notice, but quiet enough to
+tune out with time. Soon the lights started to dim, and I
+could make out a shadow figure burned onto a wall of cloth.
+The figure started to speak, in a loud, commanding voice.
+
+*"This play is 90 minutes long. There is no intermission.
+Please turn off your cellphones, pagers and whatsoever. If your phone does
+go off during the play, I will come out and I will hurt you."*
+
+I reached deeply into my pockets and fumbled around the sides of my
+phone to double check that it was in silent mode. It was. With one large
+breath, I braced for impact and made myself comfortable ontop of a tiny
+black chair. But I was not ready for what I was about to see.
+
 The play was intense, and overflowing with emotions and drama. There was
 no time to come up for air, no comic relief. From the beginning to the end, it
 was full-throttle, never letting up on gas. During the moment, I didn't
 enjoy the experience because I felt uneasy. I kept shifting
-around in my chair. Unable to sit still and appreciate the moment as the artwork
-unraveled in front of me. I wanted to get up and stand, to walk around
-and be part of the scene. But once the play was over, all I wanted to do was to sit
+around in my chair. Unable to sit still and appreciate the work of art
+unravel in front of me. I wanted to get up and stand, to walk around
+and be in motion. But once the play was over, all I wanted to do was to sit
 down and think about what I had just witnessed. As I mulled over this experience,
-I started to recall something. *The truth that I had once known, but chose to forget.*
+I started to recall something. A truth that I had once known, but chose to forget.
 
-I dug up something that I've deeply buried in my mind. The reason why I
-left Canada to embark on a journey without a cause, the reason why I was
-in such scarred and in bad shape after graduating from university. It
-was all coming back to me like a wall of bricks hitting me on the side
-of my head. Then it started a small fire in my heart, and continued to
-burn for days and nights, never letting me have a moment of peace.
+It all came rushing back, memories of the time when I finally found what I was looking for, only
+to realize that I did not have the confidence, nor the courage to step
+forward. Memories of feeling awake, after having been asleep for years.
+These were memories that I had deeply buried inside my heart, not knowing when they will re-surface, but
+because it was "necessary", I had smothered this newborn child of mine
+hoping that its cries will eventually fall deaf to my ears.
 
-The truth that upon searching for so dearly, I had finally found something that I loved doing; an
-activity, in the most purely sense. Self-expression.
+But as soon as the play ended, my attempt at quietly living a normal life
+proved to be a spectacular failure.  Twelve months of silencing undone in just ninety
+minutes! I was instantly bothered by what I had done, but more importantly,
+horrified by what I had failed to do for months. I've been financially independent for close to
+six months now, why haven't I taken another acting course? Why haven't I
+read any of the emails from the various acting orgnizations I've
+signed up for?
+Why haven't I taken one step towards making my dreams a reality?
+I felt gulity, sad, angry and betrayed. I had swallowed
+a cocktail of dark emotions that I could taste but unable to digest. I would stand then sit,
+then stand again, only to sit down, over and over.
 
-The truth that I had ran away from what I had desperately yearned for, all beacuse I was
-fearful of shame, failure and rejection.
-
----
-
-Artist and Engineer, both are something that I identify with;
-both are roles that I want to play in life. Yet, at first glace, the two seems
-so unlike each other. My formal education may be in Engineering, but
-the discipline that I identify myself with has already been in Artisty.
-
-Art; ever since I was a kid, I was
-drawing and buliding things. In my eyes, both are forms of expression of
-the self. The only thing that was different was the tool in which I used to
-express myself.
-
-Expression; that is the word that she used to describe the reason. The
-reason why she does what she does. And perhaps it is the same lack of it
-that brought such pain in my heart.
-
-We all have the capacity, the desire and finally, the need to express
-ourselves. It is in our nature; because we are not machines, we are
-human beings. We have hearts, we have emotions, we have feelings that we
-just cannot deny. No matter how hard we try to become something we are
-not, we will fall short. And one day the reality will catch up with us.
-
-Expression; it is the reason why I was able to do what I do for so long.
-Without being able to express myself, my thoughts, my feelings, I would
-have been dead a long ago. What is the point of my existence? The
-ultimate reason is that we do not matter. We are just another life form
-on this planet. We only matter to our individual
-selves. The so called 'ego', if often my main motivator and it is the
-reason why so many of us choose to do the things that we do.
+Next day, like a dog
+that's been abandoned by his owner, I wandered around the office for hours,
+waiting for the clock to run out so that I could be in a place of
+comfort and silence in order to pick up the broken pieces and try again.
