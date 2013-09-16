@@ -1,12 +1,12 @@
 We first met in beginner's acting class more than a year
 ago. Since that time, she decided to pursue acting further and I didn't.
-She's been doing this for just over a year, and explained to me how difficult it
+She's been doing this for just over a year, and she explained to me how difficult it
 has been since. As she told stories of her experiences, I felt both fear and
 excitement from her voice. She knew she wasn't sure of what she was doing and
 the uncertainty of whether or not she'll "make it" was taking its toll.
 As she spoke, I couldn't help but find her irresistibly charming.
 It could have been her long curly hair, her luscious full lips, or her
-body that would make any straight men turn heads. But on top of all
+body, that constantly made people turn heads. But on top of all
 that, I was captivated by the fact that despite fear, she was pursuing something she
 loved doing. Right at that moment, I saw something in her that I wanted
 for myself: the courage to step forward.
