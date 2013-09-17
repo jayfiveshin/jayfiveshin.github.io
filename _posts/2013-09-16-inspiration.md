@@ -26,6 +26,13 @@ sick to realize just how much I enjoy being healthy. When you are not
 feeling well, it's pretty much the only thing you ever want. You just
 want to be healthy again.
 
+If I could fit additional hundred years to my life, I would not be able to do
+something better than someone who is currently the world's best. The
+point of bettering myself at something is not so that I can become the
+best, it's because it would better my situation. When it comes to
+programming and web development, I need to rid of this idea that if I don't
+become the best there is, there is no point to it. It isn't true.
+
 I'm twenty-five years old. Who am I supposed to be at this point in my life? What
 were some of my goals when I was twenty years old? What about when I was
 fifteeen? What will be my goal when I'm thirty years old? What about
