@@ -41,13 +41,13 @@ achieve. My life's work, I would say. On my deathbed, I will say "My
 work is done. I have no regrets", then die a glorious death, a worthy
 death.
 
-Some people live their whole lives, planning how they will live. But
-these people plan their whole lives that they never really get to live.
-Living, for a human being, is not what particular event, but rather a
-series of continuous events. If you spend all of your life planning on
+Some people live their whole lives planning how they will live. But
+because they are always planning, they never really get a chance to live.
+Living, for a human being, is not one particular event, but rather a
+series of events interwoven by time. If you spend all of your life planning on
 how to live it, you'll never really live.
 
 Death, however, is one event. An event no man nor woman ever escapes. It
 is something worth planning for. It is something worth envisioning your
-whole life. I will live my whole life planning how I will die. I will
-die the way I want to die.
+whole life. I will live my whole life planning how I will die.
+And I will die the way I want to die.

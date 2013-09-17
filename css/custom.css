@@ -18,3 +18,7 @@ body > .navbar .brand, a {
 #post {
   max-width: 700px;
 }
+
+#comments {
+  max-width: 300px;
+}

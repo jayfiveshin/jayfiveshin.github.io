@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
-<div id="post">
-  {{ content }}
+<div class="container-fluid">
+  <div class="row-fluid">
+    <div id="posts" class="span8">
+      {{ content }}
+    </div>
+    <div class="span2">
+      <!-- Reserved for comments -->
+    </div>
+  </div>
+  <a style="margin-bottom: 30px;" class="btn btn-primary btn-small" href="/">Back</a>
 </div>
-<a style="margin-bottom: 30px;" class="btn btn-primary btn-small" href="/">Back</a>
