@@ -23,11 +23,6 @@ was pizza, which plenty of other people had, but didn't get sick. Did I
 eat anything other than that afterward? I may have, but I might not
 remember.
 
-I'm not going to pretend that I'm some kind of a fancy artist, because
-I'm not. I've always been the type of person that wrote what I see, what
-I hear and what I can touch. I'm not the idealist. I'm the realist. I am
-not going to betray myself.
-
 I still don't feel very good. This isn't good. It's sad that I need get
 sick to realize just how much I enjoy being healthy. When you are not
 feeling well, it's pretty much the only thing you ever want. You just
