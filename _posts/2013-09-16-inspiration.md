@@ -3,7 +3,7 @@ layout: post
 title: Inspiration
 ---
 ##{{ page.title }}
-**{{ page.date | date: "%A, %B, %d %Y" }}**
+**{{ page.date | date: "%A, %B %d, %Y" }}**
 
 I'm constantly looking for some kind of an inspiration to take me away
 when I'm writing. However, I think the mistake that I've been making is

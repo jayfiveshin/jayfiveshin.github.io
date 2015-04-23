@@ -3,7 +3,7 @@ layout: post
 title: Self-Expression
 ---
 ##{{ page.title }}
-**{{ page.date | date: "%A, %B, %d %Y" }}**
+**{{ page.date | date: "%A, %B %d, %Y" }}**
 
 *"Expression."*
 
